@@ -1,14 +1,3 @@
-# xylophone
-
-# Icon
-
-<img src="https://user-images.githubusercontent.com/73787635/101788525-01335400-3b22-11eb-9f3b-c710a1c43cc2.jpg"/>
-
-# ScreenShot
-
-<img src="https://user-images.githubusercontent.com/73787635/101789518-37250800-3b23-11eb-9474-0506b6887f16.png" height = 500, weight = 450/>
-
-# Playing_Xylophone
-
-<img src="https://user-images.githubusercontent.com/73787635/101790357-2d4fd480-3b24-11eb-97c1-86b7036e22ad.gif" height = 500, weight = 450/>
-
+![thumbnail](https://user-images.githubusercontent.com/88318746/141486346-073718b6-81ba-4dfc-af27-0f9d31b73109.png)
+![xylophone-ipad](https://user-images.githubusercontent.com/88318746/141486374-efa9b797-62d8-4a5d-a876-21f1d2894d6d.png)
+![xylophone-iphone](https://user-images.githubusercontent.com/88318746/141486396-92f44e38-ac4f-40ee-ad62-b56a1eb6037a.png)
