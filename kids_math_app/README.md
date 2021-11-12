@@ -1,16 +1,5 @@
-# kids_math_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#kids_math_app
+![1](https://user-images.githubusercontent.com/88318746/140274645-1fe83c72-f4d2-4eae-aeae-badca70d44b7.PNG)
+![2](https://user-images.githubusercontent.com/88318746/140274689-cec436fa-98c9-407a-b886-21e5c73829d8.PNG)
+![3](https://user-images.githubusercontent.com/88318746/140274710-b4558901-91f1-4e7d-8fb6-0e1b0d173359.PNG)
+![4](https://user-images.githubusercontent.com/88318746/140274731-c70b8975-818e-4888-b8fd-868fce05b313.PNG)
