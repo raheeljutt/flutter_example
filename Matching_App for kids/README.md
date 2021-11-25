@@ -1,6 +1,7 @@
 # dragebalegame
 
 A new Flutter application.
+![Capture](https://user-images.githubusercontent.com/88318746/143397532-46a7a7f7-c588-4d20-b7c4-8c8b36e221ee.PNG)
 
 ## Getting Started
 
