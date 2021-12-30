@@ -1,5 +1,4 @@
 # Flutter Firebase Authentication Email Password, Reset Password, Change Password, Email Verification, Dashboard, Profile etc
-### Video Tutorial: https://www.youtube.com/watch?v=JVSHH6vYxGM
 #### Application Screenshots
 
 
